@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WordQuizGame</string>
+    <string name="abc_logo">abc logo</string>
+    <string name="play">Play</string>
+    <string name="learn">Learn</string>
+    <string name="picture_of_animal">picture of animal</string>
+    <string name="animal_name">Animal name</string>
+    <string name="demo_text">Demo text</string>
+    <string name="choice">Choice</string>
+    <string name="next">Next</string>
+    <string name="score">0 คะแนน</string>
+</resources>
